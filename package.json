@@ -1,0 +1,16 @@
+{
+  "name": "real-time-twitter-location-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vitalvirtue/vendor-foodtruck-data.git",
+  "author": "Hayati Erdem Özkümüş <68844223+vitalvirtue@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.352.0",
+    "aws-sdk": "^2.1397.0",
+    "dotenv": "^16.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
